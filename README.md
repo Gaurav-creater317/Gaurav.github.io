@@ -1,4 +1,15 @@
  # 🌟 My Portfolio
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gaurav-creater317.Gaurav-creater317&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/f8/15/37/f815372c7dff415fedff5884073bccb9.gif"  />
+</div>
 
 Welcome to my Personal Portfolio Website!
 This project showcases my skills, projects, and journey as a developer.
