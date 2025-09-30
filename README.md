@@ -7,7 +7,7 @@
 Welcome to my Personal Portfolio Website!
 This project showcases my skills, projects, and journey as a developer.
 
-🚀 Live Demo -> https://gaurav-portfolio-website.vercel.app | https://iamgauravmehra.netlify.app/
+🚀 Live Demo -> https://iamgauravmehra.vercel.app/ | https://iamgauravmehra.netlify.app/
 
 <h1 align="left">Connect with me : 💬</h1>
 
